@@ -8,4 +8,4 @@ This is a Python implementation of the A* algorithm, built with Pygame.
 
 - Right-click to cancel node selection.
 
-- Press space to start running the A* algorithm.
+- Press space to start running the algorithm.
