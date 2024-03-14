@@ -1,7 +1,9 @@
 # A* Algorithm Visualizer
 
-Click to select starting and ending nodes, as well as draw obstacles on the grid.
+This is a Python implementation of the A* algorithm, built with Pygame.
 
-Right-click to cancel node selection and press space to start running the A* algorithm.
+## Usage
 
-Built with Python and Pygame.
+- Click to select starting and ending nodes, as well as draw obstacles on the grid.
+
+- Right-click to cancel node selection and press space to start running the A* algorithm.
