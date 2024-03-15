@@ -1,6 +1,6 @@
 # A* Algorithm Visualizer
 
-This is a Python implementation of the A* algorithm, built with Pygame.
+This is a Python implementation of the A* algorithm.
 
 ## Usage
 
